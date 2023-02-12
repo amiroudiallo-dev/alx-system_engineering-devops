@@ -1,1 +1,1 @@
-shell permissions
+username of the current user
