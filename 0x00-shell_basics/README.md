@@ -1,1 +1,1 @@
-current directory content
+creating directory
