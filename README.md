@@ -1,1 +1,1 @@
-groups of user
+shell permissions
