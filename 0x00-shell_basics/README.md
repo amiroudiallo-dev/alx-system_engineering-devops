@@ -1,1 +1,1 @@
-change directory to the previours one
+listing all files of current directory
