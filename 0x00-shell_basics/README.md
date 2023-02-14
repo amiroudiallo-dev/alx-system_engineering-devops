@@ -1,1 +1,1 @@
-script that change the working directory to the previous one
+change directory to the previours one
