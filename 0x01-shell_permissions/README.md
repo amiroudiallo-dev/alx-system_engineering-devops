@@ -1,1 +1,1 @@
-directories_permissions
+directory_permissions
