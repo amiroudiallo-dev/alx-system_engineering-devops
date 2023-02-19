@@ -1,1 +1,1 @@
-change owner and group
+symbolic_link_permissions
