@@ -9,3 +9,4 @@
 - [x] 10-back
 - [x] 11-lists
 - [x] 12-file_type
+- [x] school.mgc
