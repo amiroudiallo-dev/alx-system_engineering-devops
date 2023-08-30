@@ -3,3 +3,4 @@
 - [x] 2-bring_me_home
 - [x] 3-listfiles
 - [x] 5-listfilesdigitonly
+- [x] 7-movethatfile
