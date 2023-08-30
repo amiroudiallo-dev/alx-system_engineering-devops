@@ -5,3 +5,4 @@
 - [x] 5-listfilesdigitonly
 - [x] 7-movethatfile
 - [x] 8-firstdelete
+- [x] 9-firstdirdeletion
