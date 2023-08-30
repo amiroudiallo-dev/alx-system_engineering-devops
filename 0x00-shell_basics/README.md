@@ -7,3 +7,4 @@
 - [x] 8-firstdelete
 - [x] 9-firstdirdeletion
 - [x] 10-back
+- [x] 11-lists
