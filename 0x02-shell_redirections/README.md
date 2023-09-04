@@ -4,3 +4,4 @@
 - [x] 3-twofiles
 - [x] 4-lastlines
 - [x] 5-firstlines
+- [x] 6-third_line
