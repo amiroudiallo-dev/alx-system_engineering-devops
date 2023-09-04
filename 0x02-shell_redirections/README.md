@@ -23,3 +23,4 @@
 - [x] 22-users_and_homes
 - [x] 100-empty_casks
 - [x] 101-gifs
+- [x] 102-acrostic
