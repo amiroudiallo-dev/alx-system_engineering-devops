@@ -21,3 +21,4 @@
 - [x] 20-hiago
 - [x] 21-reverse
 - [x] 22-users_and_homes
+- [x] 100-empty_casks
