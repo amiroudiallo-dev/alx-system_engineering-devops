@@ -14,3 +14,4 @@
 - [x] 13-unique
 - [x] 14-findthatword
 - [x]15-countthatword
+- [x] 16-whatsnext
