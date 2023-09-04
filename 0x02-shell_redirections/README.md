@@ -19,3 +19,4 @@
 - [x] 18-letteronly
 - [x] 19-AZ
 - [x] 20-hiago
+- [x] 21-reverse
