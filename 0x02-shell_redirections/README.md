@@ -9,3 +9,4 @@
 - [x] 8-cwd_state
 - [x] 9-duplicate_last_line
 - [x] 10-no_more_js
+- [x] 11-directories
