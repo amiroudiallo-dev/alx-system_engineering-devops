@@ -22,3 +22,4 @@
 - [x] 21-reverse
 - [x] 22-users_and_homes
 - [x] 100-empty_casks
+- [x] 101-gifs
