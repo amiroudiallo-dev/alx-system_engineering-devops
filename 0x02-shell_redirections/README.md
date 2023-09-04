@@ -2,3 +2,4 @@
 - [x] 1-confused_smiley
 - [x] 2-hellofile
 - [x] 3-twofiles
+- [x] 4-lastlines
