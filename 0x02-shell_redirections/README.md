@@ -1,1 +1,2 @@
 - [x] 0-hello_world
+- [x] 1-confused_smiley
