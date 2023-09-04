@@ -24,3 +24,4 @@
 - [x] 100-empty_casks
 - [x] 101-gifs
 - [x] 102-acrostic
+- [x] 103-the_biggest_fan
