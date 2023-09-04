@@ -12,3 +12,4 @@
 - [x] 11-directories
 - [x] 12-newest_files
 - [x] 13-unique
+- [x] 14-findthatword
