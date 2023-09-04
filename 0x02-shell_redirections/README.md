@@ -17,3 +17,4 @@
 - [x] 16-whatsnext
 - [x] 17-hidethisword
 - [x] 18-letteronly
+- [x] 19-AZ
