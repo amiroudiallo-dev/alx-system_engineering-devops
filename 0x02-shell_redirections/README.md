@@ -10,3 +10,4 @@
 - [x] 9-duplicate_last_line
 - [x] 10-no_more_js
 - [x] 11-directories
+- [x] 12-newest_files
