@@ -9,3 +9,4 @@
 - [x] 9-divide_and_rule
 - [x] 10-love_exponent_breath
 - [x] 11-binary_to_decimal
+- [x] 12-combinations
