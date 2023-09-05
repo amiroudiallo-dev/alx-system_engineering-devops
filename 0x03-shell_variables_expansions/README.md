@@ -3,3 +3,4 @@
 - [x] 2-path
 - [x] 3-paths
 - [x] 4-global_variables
+- [x] 5-local_variables
