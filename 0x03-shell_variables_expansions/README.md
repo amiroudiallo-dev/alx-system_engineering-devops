@@ -2,3 +2,4 @@
 - [x] 1-hello_you
 - [x] 2-path
 - [x] 3-paths
+- [x] 4-global_variables
