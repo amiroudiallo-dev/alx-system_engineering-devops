@@ -1,3 +1,5 @@
+## 0x02-shell_redirections
+### Tasks carried out
 - [x] 0-hello_world
 - [x] 1-confused_smiley
 - [x] 2-hellofile
@@ -13,7 +15,7 @@
 - [x] 12-newest_files
 - [x] 13-unique
 - [x] 14-findthatword
-- [x]15-countthatword
+- [x] 15-countthatword
 - [x] 16-whatsnext
 - [x] 17-hidethisword
 - [x] 18-letteronly
