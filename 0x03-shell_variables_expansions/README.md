@@ -7,3 +7,4 @@
 - [x] 6-create_local_variable
 - [x] 8-true_knowledge
 - [x] 9-divide_and_rule
+- [x] 10-love_exponent_breath
