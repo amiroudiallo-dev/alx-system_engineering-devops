@@ -1,3 +1,5 @@
+## 209 0x03. Shell, init files, variables and expansions
+### Tasks carried out
 - [x] 0-alias
 - [x] 1-hello_you
 - [x] 2-path
