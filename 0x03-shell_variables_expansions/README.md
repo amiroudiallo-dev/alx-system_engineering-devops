@@ -14,3 +14,4 @@
 - [x] 100-decimal_to_hexadecimal
 - [x] 101-rot13
 - [x] 102-odd
+- [x] 103-water_and_stir
