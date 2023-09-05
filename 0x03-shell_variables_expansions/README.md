@@ -5,3 +5,4 @@
 - [x] 4-global_variables
 - [x] 5-local_variables
 - [x] 6-create_local_variable
+- [x] 8-true_knowledge
