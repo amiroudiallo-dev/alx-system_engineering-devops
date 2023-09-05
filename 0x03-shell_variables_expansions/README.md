@@ -1,3 +1,4 @@
 - [x] 0-alias
 - [x] 1-hello_you
 - [x] 2-path
+- [x] 3-paths
