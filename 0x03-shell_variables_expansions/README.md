@@ -11,3 +11,4 @@
 - [x] 11-binary_to_decimal
 - [x] 12-combinations
 - [x] 13-print_float
+- [x] 100-decimal_to_hexadecimal
