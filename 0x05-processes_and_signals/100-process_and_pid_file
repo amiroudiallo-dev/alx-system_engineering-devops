@@ -1,21 +1,24 @@
 #!/usr/bin/env bash
-# a lot of extra traps
-file=/var/run/holbertonscript.pid
-function finishQuit {
-    sudo rm $file
-    exit
+# Does the following:
+#   Create a file /var/run/holbertonscript.pid containing the script PID.
+#   Displays "To infinity and beyond" indefinitely
+#   Displays "I hate the kill command" upon receiving a SIGTERM
+#   Displays "Y U no love me?!" upon receiving a SIGINT
+#   Deletes the file /var/run/holbertonscript.pid and terminates upon
+#+  receiving a SIGQUIT or SIGTERM.
+
+terminator() {
+  rm /var/run/schoolscript.pid
+  exit
 }
-function finishTerm {
-    echo 'I hate the kill command'
-    sudo rm $file
-    exit
-}
-trap finishTerm SIGTERM
-trap finishQuit SIGQUIT
-trap "echo 'Y U no love me?!'" SIGINT
-sudo bash -c "echo $$ > $file"
-while ((1))
+
+echo "$$" > /var/run/schoolscript.pid
+
+while true
 do
-    echo "To infinity and beyond"
-    sleep 2
+  echo "To infinity and beyond"
+  sleep 2
+  trap 'echo "Y U no love me?!"' SIGINT
+  trap 'echo "I hate the kill command" && terminator' SIGTERM
+  trap 'terminator' SIGQUIT
 done
