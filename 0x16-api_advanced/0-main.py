@@ -1,9 +1,5 @@
 #!/usr/bin/python3
-"""
-0-main
-"""
 import sys
-import ../0-subs.py
 
 if __name__ == '__main__':
     number_of_subscribers = __import__('0-subs').number_of_subscribers
